@@ -138,7 +138,7 @@ export default function withFullscreen({ onError = noop } = {}) {
 
                         this.bodyPosOrig = window.document.body.style.position;
                         this.bodyMarginOrig = window.document.body.style.margin;
-                        window.document.body.style.position = 'fixed';
+                        // window.document.body.style.position = 'fixed';
                         window.document.body.style.margin = '0';
 
                         this.setState(
@@ -255,7 +255,7 @@ export default function withFullscreen({ onError = noop } = {}) {
                     style = {
                         height: viewportDimensions.height,
                         width: viewportDimensions.width,
-                        position: 'absolute',
+                        position: 'fixed',
                         top: '0',
                         right: '0',
                         bottom: '0',

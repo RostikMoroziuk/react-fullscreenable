@@ -1,7 +1,7 @@
 {
-  "name": "react-fullscreenable",
+  "name": "react-fullscreenable-hoc",
   "version": "2.5.0",
-  "description": "React higher order component that provides fullscreen API to the enhanced component",
+  "description": "Fork of react-fullscreanable",
   "author": "Grant Gingell <grantgi@zillowgroup.com>",
   "license": "ISC",
   "main": "lib/index.js",

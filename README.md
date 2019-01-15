@@ -1,5 +1,7 @@
 # react-fullscreenable
 
+Forked repo of react-fullscreenable
+
 > This is a [higher order component](https://facebook.github.io/react/docs/higher-order-components.html) that enhances any component with props that allow it to enter native fullscreen.
 
 ## Changelog
